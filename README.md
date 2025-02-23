@@ -1,0 +1,2 @@
+# Detection-of-Depression-in-Social-Media-via-Twitter-Using-Machine-Learning-Approach
+This project aims to detect depression-related tweets using Twitter API and Machine Learning techniques. By analyzing syntactical markers in social media posts, the system predicts whether a tweet reflects depressive tendencies or positive emotions. The model is trained using Random Forest Classifier for high accuracy in sentiment classification.
